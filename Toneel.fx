@@ -21,7 +21,6 @@ Stage {
             image: bind Image {
                 width : 1000
                 preserveRatio: true
-
                 url: "https://i.imgur.com/3XEivNY.png"
             } 
             }
@@ -35,6 +34,8 @@ Stage {
 	content: "Barricade"
         }
 
+	
+	//idk hoe je de positie moet aangeven tbhtbh ngl
         Button {
 	text: "Reset"
 	action: function() {
