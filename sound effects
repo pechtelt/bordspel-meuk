@@ -28,6 +28,13 @@ Stage {
         MediaPlayer mediaPlayer = new MediaPlayer(sound);
         mediaPlayer.play();
         
+        
+        //of
+        
+        MediaPlayer audio = new MediaPlayer(
+    new Media(
+        new File("file.mp3").toURI().toString()));
+        
 
 
 
