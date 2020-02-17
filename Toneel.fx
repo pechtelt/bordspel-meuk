@@ -26,13 +26,6 @@ Stage {
             }
 
 
-            Text {
-	font : Font {
-		size: 20
-	}
-	x: 470, y: 200
-	content: "Barricade"
-        }
 
 	
 	//idk hoe je de positie moet aangeven tbhtbh ngl
