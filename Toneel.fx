@@ -21,7 +21,7 @@ Stage {
             image: bind Image {
                 width : 1000
                 preserveRatio: true
-                url: "https://i.imgur.com/3XEivNY.png"
+                url: "https://i.imgur.com/MJt8GKN.png"
             } 
             }
 
